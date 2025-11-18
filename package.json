@@ -1,13 +1,12 @@
 {
   "name": "suporte-tickets",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch src/server.js"
   },
-  "keywords": [],
   "author": "Vanessa Mariano Gomes",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "description": "API para gerenciar ticket de suporte técnico"
 }
