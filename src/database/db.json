@@ -1,1 +1,13 @@
-{}
+{
+    "tickets": [
+        {
+            "id": "68fabb02-6ee0-4104-a0b2-e860599220fc",
+            "equipment": "Computador",
+            "description": "Computador não liga.",
+            "user_name": "Vanessa Gomes",
+            "status": "open",
+            "created_at": "2025-11-19T21:50:57.552Z",
+            "updated_ate": "2025-11-19T21:50:57.552Z"
+        }
+    ]
+}
